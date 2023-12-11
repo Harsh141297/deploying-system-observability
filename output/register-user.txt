@@ -1,0 +1,15 @@
+{
+    "dataset": {
+        "created": "Sun, 10 Dec 2023 10:38:25 GMT",
+        "email": "harsh.ind14@gmail.com",
+        "id": 2,
+        "role": 0,
+        "token": "R4FPIRYTYP7HQXZ51GLPJTYFKA3OZC2UDUBHVFJ6BT0T61PUGL",
+        "username": "harshit"
+    },
+    "status": {
+        "message": "101: Created.",
+        "records": 1,
+        "success": true
+    }
+}
